@@ -58,6 +58,14 @@ tags:
 - Healthcare
 apis: []
 common:
+- type: Careers
+  url: https://breezebio.com/careers/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/breezebio
+- type: LLMsTxt
+  url: llms/breezebio-llms.txt
+- type: DomainSecurity
+  url: security/breezebio-domain-security.yml
 - type: Website
   url: https://breezebio.com/
 - type: Blog

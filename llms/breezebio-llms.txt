@@ -1,0 +1,61 @@
+# BreezeBio
+
+> Precision genetic medicines powered by the NanoGalaxy® non-viral delivery platform, targeting autoimmune disease and oncology.
+
+Website: https://breezebio.com
+
+Full version: https://breezebio.com/llms-full.txt (contains complete page content and full press release text)
+
+## Organization
+
+- Company: BreezeBio (formerly GenEdit)
+- Industry: Biotechnology / Genetic Medicine
+- Technology: NanoGalaxy® non-viral, non-lipid hydrophilic nanoparticle (HNP) delivery platform
+- Payloads: mRNA, siRNA, DNA, CRISPR ribonucleoprotein
+- Therapeutic Focus: Autoimmune disease (lead: BRZ-101 for type 1 diabetes), oncology
+- Lead Candidate: BRZ-101 — mRNA-based immune tolerance therapy for type 1 diabetes (IND-enabling)
+- Key Partnership: Multi-year collaboration with Genentech (Roche) for autoimmune indications; up to $629M in milestones
+- CEO: Kunwoo (Ryan) Lee, Ph.D.
+- Headquarters: South San Francisco, CA 94005
+- Contact: info@breezebio.com
+
+## Core Pages
+
+- [Home](https://breezebio.com/): Main landing page — company overview and value proposition
+- [Pipeline](https://breezebio.com/pipeline/): Therapeutic pipeline led by BRZ-101 for type 1 diabetes, plus oncology programs
+- [Platform](https://breezebio.com/nanogalaxy/): NanoGalaxy® platform — proprietary HNP delivery technology with demonstrated targeting to immune, cardiac, pulmonary, and CNS tissues
+
+## Scientific Context
+
+- [Science](https://breezebio.com/science/): Scientific foundation of non-viral nanoparticle delivery for genetic medicines
+
+## Corporate
+
+- [About](https://breezebio.com/about/): Company history, leadership team, mission, and milestones
+- [Careers](https://breezebio.com/careers/): Open positions and career opportunities
+- [News](https://breezebio.com/news/): Press releases and company announcements
+- [Contact](https://breezebio.com/contact/): Contact information and inquiry form
+
+## News
+
+- [BreezeBio Appoints Kevin Sin to Its Board of Directors](https://breezebio.com/breezebio-appoints-kevin-sin-to-its-board-of-directors/) - Press Releases (2026-09-15)
+- [BreezeBio Presents Data Supporting NanoGalaxy® Platform for Antigen-Specific Immune Tolerance in Type 1 Diabetes at ADA 2026](https://breezebio.com/breezebio-presents-data-supporting-nanogalaxy-platform-for-antigen-specific-immune-tolerance-in-type-1-diabetes-at-ada-2026/) - Press Releases (2026-06-18)
+- [BreezeBio Announces Scientific Advisory Board to Support Next Stage of Precision Genetic Medicine Pipeline Development](https://breezebio.com/breezebio-announces-scientific-advisory-board-to-support-next-stage-of-precision-genetic-medicine-pipeline-development/) - Press Releases (2026-05-26)
+- [BreezeBio (Formerly GenEdit) Announces Series B Financing to Advance Internal Pipeline of Precision Genetic Medicines](https://breezebio.com/breezebio-formerly-genedit-announces-series-b-financing-to-advance-internal-pipeline-of-precision-genetic-medicines/) - Press Releases (2026-02-25)
+- [GenEdit Achieves First Milestone from Collaboration and License Agreement with Genentech](https://breezebio.com/genedit-achieves-first-milestone-from-collaboration-and-license-agreement-with-genentech/) - Announcements (2025-05-07)
+- [GenEdit Appoints Dr. J. Rodrigo Mora as Chief Scientific Officer to Expand Its NanoGalaxy® Genetic Medicine Platform into Immunology](https://breezebio.com/genedit-appoints-dr-j-rodrigo-mora-as-chief-scientific-officer-to-expand-its-nanogalaxy-genetic-medicine-platform-into-immunology/) - Announcements (2024-11-13)
+- [GenEdit Announces Multiyear Collaboration and License Agreement with Genentech to Develop Novel Nanoparticles to Deliver Genetic Medicines for Autoimmune Disease](https://breezebio.com/genedit-announces-multiyear-collaboration-and-license-agreement-with-genentech-to-develop-novel-nanoparticles-to-deliver-genetic-medicines-for-autoimmune-disease/) - Announcements (2024-01-23)
+- [GenEdit Announces Series A1 Financing](https://breezebio.com/genedit-announces-series-a1-financing/) - Announcements (2024-01-17)
+- [GenEdit Is a Phase I Winner of the NIH TARGETED Challenge](https://breezebio.com/genedit-is-a-phase-i-winner-of-the-nih-targeted-challenge/) - Announcements (2023-12-13)
+- [Sarepta Therapeutics and GenEdit Share Progress on Research Collaboration and Announce Agreement to Develop Gene Editing Therapeutics for Neuromuscular Diseases](https://breezebio.com/sarepta-therapeutics-and-genedit-share-progress-on-research-collaboration-and-announce-agreement-to-develop-gene-editing-therapeutics-for-neuromuscular-diseases/) - Announcements (2022-02-01)
+- [GenEdit Announces Series A Financing and Provides Research Update at TIDES 2021](https://breezebio.com/genedit-announces-series-a-financing-and-provides-research-update-at-tides-2021/) - Catch Up With (2021-09-23)
+- [GenEdit Expands Leadership Team to Advance Targeted Genetic Medicines into Clinical Trials](https://breezebio.com/genedit-expands-leadership-team-to-advance-targeted-genetic-medicines-into-clinical-trials/) - Announcements (2021-09-22)
+- [GenEdit and Editas Medicine Enter into Exclusive License and Collaboration Agreement for Nanoparticle Gene Therapy Delivery](https://breezebio.com/genedit-and-editas-medicine-enter-into-exclusive-license-and-collaboration-agreement-for-nanoparticle-gene-therapy-delivery/) - Announcements (2019-12-11)
+
+## Legal
+
+- [Privacy Policy](https://breezebio.com/privacy-policy/)
+
+---
+
+Generated: 2026-09-17 15:46:29 UTC
